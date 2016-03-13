@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rosstopherkeen.github.io
+title: Prajwal Bhaskar
+tagline: Ramblings about life, the universe and everything
+description: My awesome new site
+paginate: 5
